@@ -32,7 +32,8 @@
 
 
 ### How To Use
-*Either restart or double-click on `MultiTool.ahk` for first run
+* Either restart or double-click on `MultiTool.ahk` for first run
 * Press ctrl + shift + m to open multitool
+  * * NOTE: You may have to wait for other apps to run on startup first, before the shortcut will be active
 * navigate menus with numbers
 * Refer to calcure documentation for help with calendar
