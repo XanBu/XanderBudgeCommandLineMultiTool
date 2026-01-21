@@ -24,7 +24,7 @@
   * Right click on `MultiTool.ahk`
   * Show more options
   * Create Shortcut
-*Cut the shortcut ctrl + x
+* Cut the shortcut by with ctrl + x
 * Press Win + R
 * Type shell:startup
 * Press Enter
