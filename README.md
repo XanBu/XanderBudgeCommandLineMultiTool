@@ -14,7 +14,7 @@
 * Open folder where MultiTool is installed
 * In `MultiTool.ahk` Replace ```"C:\Users\dylan\PycharmProjects\Multitool\MultiTool.py" ``` with your path to MultiTool.py
 ### Calcure Calander package
-* Install calcure calendar package (requres python 3.12:
+* Install calcure calendar package (requres python 3.12)
   * https://anufrievroman.gitbook.io/calcure
   * https://github.com/anufrievroman/calcure
 ### Ensure AHK shortcurt runs on startup
