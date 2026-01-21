@@ -25,7 +25,7 @@
   * Show more options
   * Create Shortcut
 * Cut the shortcut by with ctrl + x
-* Press Win + R
+* Press Win + r
 * Type shell:startup
 * Press Enter
 * Paste `MultiTool.ahk` shortcut  into that startup folder with ctrl + v
